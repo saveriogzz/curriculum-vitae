@@ -24,7 +24,7 @@
 #let headerQuoteInternational = (
   "": [Mid Level Data Engineer, lately obsessed with functional programming],
   "en": [Mid Level Data Engineer, lately obsessed with functional programming],
-  "fr": [Analyste de données expérimenté à la recherche d'un emploi à temps plein disponible dès maintenant],
+  "it": [Mid Level Data Engineer, appassionato di programmazione funzionale],
 )
 
 #let cvFooterInternational = (
@@ -36,7 +36,7 @@
 #let letterFooterInternational = (
   "": "Cover Letter",
   "en": "Cover Letter",
-  "fr": "Lettre de motivation",
+  "it": "Lettre de motivation",
 )
 
 #let nonLatinOverwriteInfo = (
