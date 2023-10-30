@@ -1,3 +1,4 @@
 [submodule "brilliant-CV"]
 	path = brilliant-CV
 	url = https://github.com/saveriogzz/brilliant-CV-Submodule
+	branch = main
