@@ -53,7 +53,7 @@
 
 #let profilePhoto = "../src/avatar.png" // Leave blank if profil photo is not needed
 
-#let varLanguage = "" // INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
+#let varLanguage = "en" // INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
 
 #let varEntrySocietyFirst = true // Decide if you want to put your company in bold or your position in bold
 
