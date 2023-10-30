@@ -3,24 +3,24 @@
 #cvSection("Professional Experience")
 
 #cvEntry(
-    title: [Director of Data Science],
-    society: [XYZ Corporation],
-    logo: "../src/logos/xyz_corp.png",
-    date: [2020 - Present],
-    location: [San Francisco, CA],
+    title: [Data Engineer],
+    society: [Spotify],
+    logo: "../src/logos/spotify_square.png",
+    date: [Jul. 2022 - Present],
+    location: [Remote within EMEA],
     description: list(
-      [Lead a team of data scientists and analysts to develop and implement data-driven strategies, develop predictive models and algorithms to support decision-making across the organization],
-      [Collaborate with executive leadership to identify business opportunities and drive growth, implement best practices for data governance, quality, and security],
+      [hello],
+      [hello],
     ),
-    tags: ("Tags Example here", "Dataiku", "Snowflake", "SparkSQL")
+    tags: ("Scio", "Scala2", "BigQuery", "Backstage")
 )
 
 #cvEntry(
-    title: [Data Analyst],
-    society: [ABC Company],
-    logo: "../src/logos/abc_company.png",
-    date: [2017 - 2020],
-    location: [New York, NY],
+    title: [Data Engineer],
+    society: [Delft University of Technology],
+    logo: "../src/logos/TU_logo/TUDelft_logo_cmyk.png",
+    date: [Sept. 2020 - June 2022],
+    location: [Delft, The Netherlands],
     description: list(
       [Analyze large datasets using SQL and Python, collaborate with cross-functional teams to identify business insights],
       [Create data visualizations and dashboards using Tableau, develop and maintain data pipelines using AWS],
@@ -28,11 +28,11 @@
 )
 
 #cvEntry(
-    title: [Data Analysis Intern],
-    society: [PQR Corporation],
-    logo: "../src/logos/pqr_corp.png",
-    date: [Summer 2017],
-    location: [Chicago, IL],
+    title: [Data Analyst],
+    society: [Nike],
+    logo: "../src/logos/nike.png",
+    date: [Aug. 2019 - Aug. 2020],
+    location: [Hilversum, The Netherlands],
     description: list(
       [Assisted with data cleaning, processing, and analysis using Python and Excel, participated in team meetings and contributed to project planning and execution],
       [Developed data visualizations and reports to communicate insights to stakeholders, collaborated with other interns and team members to complete projects on time and with high quality],
