@@ -1,15 +1,15 @@
 // NOTICE: Copy this file to your root folder.
 
 /* Personal Information */
-#let firstName = "John"
+#let firstName = "Saverio"
 
-#let lastName = "Doe"
+#let lastName = "Guzzo"
 
 #let personalInfo = (
-  github: "mintyfrankie",
-  phone: "+33 6 12 34 56 78",
-  email: "john.doe@me.org",
-  linkedin: "johndoe",
+  github: "saveriogzz",
+  // phone: "+33 6 12 34 56 78",
+  email: "saverio.g.guzzo@gmail.com",
+  linkedin: "saverioguzzo",
   //gitlab: "mintyfrankie",
   //homepage: "jd.me.org",
   //orcid: "0000-0000-0000-0000",
@@ -55,6 +55,6 @@
 
 #let varLanguage = "" // INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
 
-#let varEntrySocietyFirst = false // Decide if you want to put your company in bold or your position in bold
+#let varEntrySocietyFirst = true // Decide if you want to put your company in bold or your position in bold
 
 #let varDisplayLogo = true // Decide if you want to display organisation logo or not
