@@ -12,7 +12,7 @@
       [hello],
       [hello],
     ),
-    tags: ("Scio", "Scala2", "BigQuery", "Backstage")
+    tags: ("Scio", "Apache Beam", "Scala2", "BigQuery", "Backstage")
 )
 
 #cvEntry(
@@ -22,9 +22,10 @@
     date: [Sept. 2020 - June 2022],
     location: [Delft, The Netherlands],
     description: list(
-      [Analyze large datasets using SQL and Python, collaborate with cross-functional teams to identify business insights],
-      [Create data visualizations and dashboards using Tableau, develop and maintain data pipelines using AWS],
-    )
+      [Responsible for designing distributed storage and streaming systems, deploying scalable applications for ETL/ELT],
+      [Heavy focus on NetCDF format, nc operators, dask.],
+    ),
+    tags: ("Apache Airflow", "MinIO")
 )
 
 #cvEntry(
@@ -34,7 +35,8 @@
     date: [Aug. 2019 - Aug. 2020],
     location: [Hilversum, The Netherlands],
     description: list(
-      [Assisted with data cleaning, processing, and analysis using Python and Excel, participated in team meetings and contributed to project planning and execution],
-      [Developed data visualizations and reports to communicate insights to stakeholders, collaborated with other interns and team members to complete projects on time and with high quality],
-    )
+      [Reporting performance analysis for the European marketplace.],
+      [Leveraged Cloud infrastructure solutions such as AWS S3, Redshift, CloudFormation.],
+    ),
+    tags: ("Snowflake", "SQL")
 )

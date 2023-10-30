@@ -22,8 +22,8 @@
 /* Language-specific */
 // Add your own languages while the keys must match the varLanguage variable
 #let headerQuoteInternational = (
-  "": [Experienced Data Analyst looking for a full time job starting from now],
-  "en": [Experienced Data Analyst looking for a full time job starting from now],
+  "": [Mid Level Data Engineer, lately obsessed with functional programming],
+  "en": [Mid Level Data Engineer, lately obsessed with functional programming],
   "fr": [Analyste de données expérimenté à la recherche d'un emploi à temps plein disponible dès maintenant],
 )
 

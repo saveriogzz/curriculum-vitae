@@ -3,19 +3,19 @@
 #cvSection("Certificates")
 
 #cvHonor(
-  date: [2022],
-  title: [AWS Certified Security],
-  issuer: [Amazon Web Services (AWS)],
+  date: [2020],
+  title: [Apache Cassandra 3.x Developer Associate],
+  issuer: [Datastax]
+  )
+
+#cvHonor(
+  date: [2021],
+  title: [Astronomer Certification DAG Authoring for Apache Airflow],
+  issuer: [Astronomer]
 )
 
 #cvHonor(
-  date: [2017],
-  title: [Applied Data Science with Python],
-  issuer: [Coursera]
-)
-
-#cvHonor(
-  date: [],
-  title: [SQL Fundamentals Track],
-  issuer: [Datacamp]
+  date: [2021],
+  title: [Astronomer Certification for Apache Airflow Fundamentals],
+  issuer: [Astronomer]
 )
