@@ -4,7 +4,7 @@
 
 #cvSkill(
   type: [Languages],
-  info: [English #hBar() Italian #hBar()]
+  info: [English #hBar() Italian]
 )
 
 #cvSkill(

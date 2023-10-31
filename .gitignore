@@ -1,6 +1,7 @@
 # compiled files
 ./*.pdf
 /modules/*.pdf
+/modules_it/*.pdf
 
 # MacOS specific files (Apple sucks)
 .DS_Store

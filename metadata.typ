@@ -10,7 +10,7 @@
   // phone: "+33 6 12 34 56 78",
   email: "saverio.g.guzzo@gmail.com",
   linkedin: "saverioguzzo",
-  location: "Europe"
+  location: "Europe",
   //gitlab: "mintyfrankie",
   //homepage: "jd.me.org",
   //orcid: "0000-0000-0000-0000",
@@ -28,9 +28,9 @@
 )
 
 #let cvFooterInternational = (
-  "": "Curriculum vitae",
-  "en": "Curriculum vitae",
-  "fr": "Résumé",
+  "": "In compliance with the Italian legislative Decree no. 196 dated 30/06/2003, I hereby authorize you to use and process my personal details contained in this document.",
+  "en": "In compliance with the Italian legislative Decree no. 196 dated 30/06/2003, I hereby authorize you to use and process my personal details contained in this document.",
+  "it": "In ottemperanza al Decreto Legislativo italiano n. 196 del 30/06/2003, autorizzo per la presente l'utilizzo e il trattamento dei miei dati personali contenuti in questo documento.",
 )
 
 #let letterFooterInternational = (
@@ -47,9 +47,9 @@
 )
 
 /* Layout Setting */
-#let awesomeColor = "skyblue" // Optional: skyblue, red, nephritis, concrete, darknight
+#let awesomeColor = "darknight" // Optional: skyblue, red, nephritis, concrete, darknight
 
-#let profilePhoto = "../src/avatar.png" // Leave blank if profil photo is not needed
+#let profilePhoto = "" // Leave blank if profil photo is not needed
 
 #let varLanguage = "" // INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
 
